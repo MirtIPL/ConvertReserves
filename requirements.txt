@@ -1,0 +1,9 @@
+pytest>=8.1.1
+pytest-playwright>=0.4.4
+jsonschema>=4.22.0
+allure-pytest>=2.13.3
+requests>=2.31.0
+pytest-xdist>=3.5.0
+beautifulsoup4>=4.12.2
+python-dateutil>=2.9.0.post0
+pytest-rerunfailures==14.0
